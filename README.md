@@ -31,9 +31,12 @@ Internal Schema(technology and database to be used for design of db,implementati
  ![image](https://user-images.githubusercontent.com/50864528/115440481-6532fb00-a22d-11eb-92d5-1edb8faee6e0.png)
 
 DATA INDEPENDENCE:
+
 ![image](https://user-images.githubusercontent.com/50864528/115440310-3b79d400-a22d-11eb-874c-45e49cfde75e.png)
 
+
 DATA MODELLING:
+
 
  
  
